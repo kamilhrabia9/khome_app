@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "323059769827",
+    "firebase_url": "https://khome-base-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "khome-base",
+    "storage_bucket": "khome-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323059769827:android:de831c7b9c856c505e40d6",
+        "android_client_info": {
+          "package_name": "com.example.khome_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rJQsFzIdSJw5ddAC9R9LZOp5mWCErls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
